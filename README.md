@@ -79,9 +79,7 @@ Saya adalah mahasiswa Sistem Informasi yang berfokus pada pengembangan web dan I
 
 ## 🤝 Connect With Me
 
-*   💼 **Fastwork:** [Radel Virdiana (Virnara)](https://fastwork.id)
-*   🔗 **LinkedIn:** [Radel Virdiana](https://linkedin.com/in/)
-*   📧 **Email:** `virnara.dev@gmail.com`
+*   📧 **Email:** `radel.vrdna@gmail.com`
 
 ---
 

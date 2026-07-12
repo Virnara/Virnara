@@ -63,16 +63,18 @@ I enjoy building modern web applications, Internet of Things solutions, and cont
 
 ---
 
+---
+
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Virnara&theme=tokyonight&column=6&margin-w=15&margin-h=15" alt="Virnara Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Virnara&theme=flat" alt="Virnara Trophies" />
 </div>
 
 ---
 
 ## 📊 GitHub Analytics & Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Virnara&show_icons=true&theme=tokyonight&count_private=true" alt="Virnara GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Virnara&show_icons=true&theme=default" alt="Virnara GitHub Stats" />
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Virnara&theme=tokyonight" alt="Virnara Activity Graph" />
 </div>

@@ -1,88 +1,91 @@
 <div align="center">
 
-<!-- Logo Virnara Transparan (Adaptif untuk Dark/Light Mode) -->
-<img src="https://raw.githubusercontent.com/Virnara/Virnara/main/logo-transparent.png" width="120" alt="Virnara Logo" />
+<img src="https://raw.githubusercontent.com/Virnara/virnara.github.io/main/assets/images/logo-transparent.png" width="130" alt="Virnara Logo"/>
 
 # VIRNARA
+
 ### Building Ideas Into Reality.
 
----
+**Web Developer • IoT Developer**
 
-## Hello, I'm Radel Virdiana.
-*Web Developer • IoT Developer • Information Systems Student*
+Creating practical digital solutions through software and embedded systems.
 
-`Think.` • `Build.` • `Evolve.`
-
-<!-- Visitor Counter Minimalis -->
-![](https://komarev.com/ghpvc/?username=Virnara&color=8A2BE2&style=flat-square)
+<p>
+<a href="https://virnara.github.io">🌐 Website</a> • <a href="https://github.com/Virnara">🐙 GitHub</a>
+</p>
 
 </div>
 
 ---
 
-## 👤 About Me
+## 👋 About
 
-Saya adalah mahasiswa Sistem Informasi yang berfokus pada pengembangan web dan Internet of Things (IoT). Saya menikmati proses mengubah ide menjadi solusi digital yang fungsional, efisien, dan mudah digunakan. Saat ini saya terus mengembangkan kemampuan di bidang Full Stack Development, Cloud Computing, dan Docker.
+Hi, I'm **Radel Virdiana**, an Information Systems student from Indonesia. 
 
-*   💼 **Ketersediaan:** Terbuka untuk proyek *freelance* via Fastwork dan kolaborasi teknis.
-*   📍 **Lokasi:** Bogor, Indonesia.
+I enjoy building modern web applications, Internet of Things solutions, and continuously improving my engineering skills.
 
----
-
-## 🎯 Core Values
-
-*   🧠 **Strategic Thinking** — Menganalisis masalah secara mendalam untuk menemukan solusi yang efisien.
-*   ⚙️ **Engineering Mindset** — Membangun sistem yang terstruktur, bersih, dan mudah dirawat (*maintainable*).
-*   🚀 **Continuous Learning** — Selalu mengeksplorasi teknologi baru untuk terus berevolusi.
-*   🤝 **Reliability** — Berkomitmen pada kualitas hasil akhir dan profesionalisme kerja.
+Currently exploring:
+- Full Stack Development
+- IoT Systems
+- Docker & Linux
+- Cloud Technologies
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🌐 Web Development
+### Frontend & Backend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### ⚙️ Internet of Things (IoT) & Infrastructure
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### Database & Tools
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+### Hardware / Embedded Systems
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=for-the-badge&logo=Espressif&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-*   🌐 **[Personal Portfolio](https://github.com/Virnara/virnara.github.io)** — *Landing page* interaktif sebagai pusat identitas digital Virnara.
-*   📋 **[Smart Attendance IoT](https://github.com/Virnara/)** — Sistem absensi pintar terintegrasi berbasis mikrokontroler.
-*   🌱 **[Smart Air Monitoring](https://github.com/Virnara/)** — Proyek pemantauan kualitas udara *real-time* berbasis IoT.
-*   🐳 **[Docker Learning Lab](https://github.com/Virnara/)** — Dokumentasi dan implementasi praktis kontainerisasi aplikasi.
+| Project | Status | Description |
+| :--- | :--- | :--- |
+| [🌐 Virnara Portfolio](https://github.com/Virnara/virnara.github.io) | 🟢 Active | Personal branding website built with high-performance Vanilla UI. |
+| [🌱 Smart Air Monitoring](https://github.com/Virnara) | 🟡 Development | Real-time air quality monitoring system using ESP32 and MQ-135. |
+| [🐳 Docker Learning Lab](https://github.com/Virnara) | 🟡 Learning | Virtual laboratory environments for containerization and Linux servers. |
+| [💻 Web Development Playground](https://github.com/Virnara) | 🟢 Active | A collection of web experiments, basic PHP CRUDs, and database practices. |
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-
-| **Virnara's Git Stats** | **Top Languages** |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=Virnara&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Virnara's GitHub stats" height="180px" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Virnara&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" /> |
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Virnara&show_icons=true&theme=tokyonight&count_private=true" alt="Virnara GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Virnara&theme=tokyonight" alt="Virnara GitHub Streak" />
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Connect
 
-*   📧 **Email:** `radel.vrdna@gmail.com`
+- 🌐 [Official Website](https://virnara.github.io)
+- 📧 [Email Me](mailto:radel.vrdna@gmail.com)
+- 💼 *Fastwork (Coming Soon)*
+- 💼 *LinkedIn (Coming Soon)*
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/view?type=waving&color=8A2BE2&height=100&section=footer" width="100%" alt="footer" />
+
+**Think. Build. Evolve.**
+
+Made with ❤️ by Virnara
+
 </div>

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Virnara/virnara.github.io/main/assets/images/logo-transparent.png" width="130" alt="Virnara Logo"/>
+<img src="https://raw.githubusercontent.com/Virnara/Virnara/main/assets/logo-transparent.png" width="130" alt="Virnara Logo"/>
 
 # VIRNARA
 
@@ -10,9 +10,9 @@
 
 Creating practical digital solutions through software and embedded systems.
 
-<p>
-<a href="https://virnara.github.io">🌐 Website</a> • <a href="https://github.com/Virnara">🐙 GitHub</a>
-</p>
+[![Website](https://img.shields.io/badge/Website-virnara.github.io-8A2BE2?style=flat-square&logo=google-chrome&logoColor=white)](https://virnara.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-Virnara-00D2FF?style=flat-square&logo=github&logoColor=white)](https://github.com/Virnara)
+![Views](https://komarev.com/ghpvc/?username=Virnara&style=flat-square&color=8A2BE2)
 
 </div>
 
@@ -24,11 +24,11 @@ Hi, I'm **Radel Virdiana**, an Information Systems student from Indonesia.
 
 I enjoy building modern web applications, Internet of Things solutions, and continuously improving my engineering skills.
 
-Currently exploring:
-- Full Stack Development
-- IoT Systems
-- Docker & Linux
-- Cloud Technologies
+## 📚 Currently Learning
+- 🐳 Advanced Containerization with Docker
+- 🐧 Linux Server Administration
+- ☁️ Cloud Computing & Infrastructure
+- ⚡ Designing Efficient REST APIs
 
 ---
 
@@ -56,24 +56,30 @@ Currently exploring:
 
 | Project | Status | Description |
 | :--- | :--- | :--- |
-| [🌐 Virnara Portfolio](https://github.com/Virnara/virnara.github.io) | 🟢 Active | Personal branding website built with high-performance Vanilla UI. |
+| [🌐 Virnara Portfolio](https://github.com/Virnara/virnara.github.io) | 🟢 Active | Modern portfolio website built with HTML, CSS, and JavaScript, focusing on performance, branding, and responsive design. |
 | [🌱 Smart Air Monitoring](https://github.com/Virnara) | 🟡 Development | Real-time air quality monitoring system using ESP32 and MQ-135. |
-| [🐳 Docker Learning Lab](https://github.com/Virnara) | 🟡 Learning | Virtual laboratory environments for containerization and Linux servers. |
+| [🐳 Docker Learning Lab](https://github.com/Virnara) | 🟡 Learning | Hands-on experiments with Docker, Linux, and containerized application deployment. |
 | [💻 Web Development Playground](https://github.com/Virnara) | 🟢 Active | A collection of web experiments, basic PHP CRUDs, and database practices. |
 
 ---
 
-## 📊 GitHub Stats
-
+## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Virnara&show_icons=true&theme=tokyonight&count_private=true" alt="Virnara GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Virnara&theme=tokyonight" alt="Virnara GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Virnara&theme=tokyonight&column=6&margin-w=15&margin-h=15" alt="Virnara Trophies" />
 </div>
 
 ---
 
-## 🤝 Connect
+## 📊 GitHub Analytics & Activity
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Virnara&show_icons=true&theme=tokyonight&count_private=true" alt="Virnara GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Virnara&theme=tokyonight" alt="Virnara Activity Graph" />
+</div>
+
+---
+
+## 🤝 Connect With Me
 
 - 🌐 [Official Website](https://virnara.github.io)
 - 📧 [Email Me](mailto:radel.vrdna@gmail.com)
@@ -86,6 +92,6 @@ Currently exploring:
 
 **Think. Build. Evolve.**
 
-Made with ❤️ by Virnara
+Made with ❤️ in Indonesia 🇮🇩
 
 </div>

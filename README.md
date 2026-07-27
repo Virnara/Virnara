@@ -22,7 +22,7 @@ Creating practical digital solutions through software and embedded systems.
 
 Hi, I'm **Radel Virdiana**, an Information Systems student from Indonesia. 
 
-I enjoy building modern web applications, Internet of Things solutions, and continuously improving my engineering skills.
+I enjoy building modern web applications, Internet of Things solutions, and continuously improving my software engineering skills.
 
 ## 📚 Currently Learning
 - 🐳 Advanced Containerization with Docker
@@ -57,15 +57,16 @@ I enjoy building modern web applications, Internet of Things solutions, and cont
 | Project | Status | Description |
 | :--- | :--- | :--- |
 | [🌐 Virnara Portfolio](https://github.com/Virnara/virnara.github.io) | 🟢 Active | Modern portfolio website built with HTML, CSS, and JavaScript, focusing on performance, branding, and responsive design. |
-| [🌱 Smart Air Monitoring](https://github.com/Virnara) | 🟡 Development | Real-time air quality monitoring system using ESP32 and MQ-135. |
+| [🌱 Smart Air Monitoring](https://github.com/Virnara/smart-air-monitoring) | 🟡 Development | Real-time air quality monitoring system using ESP32 and MQ-135 sensor. |
 | [🐳 Docker Learning Lab](https://github.com/Virnara) | 🟡 Learning | Hands-on experiments with Docker, Linux, and containerized application deployment. |
 | [💻 Web Development Playground](https://github.com/Virnara) | 🟢 Active | A collection of web experiments, basic PHP CRUDs, and database practices. |
 
 ---
 
 ## 📊 GitHub Analytics & Activity
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Virnara&theme=tokyonight" alt="Virnara Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Virnara&theme=tokyonight" width="100%" alt="Virnara Activity Graph" />
 </div>
 
 ---
@@ -81,7 +82,7 @@ I enjoy building modern web applications, Internet of Things solutions, and cont
 
 <div align="center">
 
-**Think. Build. Evolve.**
+`Think.` `Build.` `Evolve.`
 
 Made with ❤️ in Indonesia 🇮🇩
 

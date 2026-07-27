@@ -66,7 +66,8 @@ I enjoy building modern web applications, Internet of Things solutions, and cont
 ## 📊 GitHub Analytics & Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Virnara&theme=tokyonight" width="100%" alt="Virnara Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Virnara&show_icons=true&theme=tokyonight&hide_border=true" alt="Virnara GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Virnara&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---

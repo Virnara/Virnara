@@ -57,12 +57,11 @@ I enjoy building modern web applications, Internet of Things solutions, and cont
 | Project | Status | Description |
 | :--- | :--- | :--- |
 | [🌐 Virnara Portfolio](https://github.com/Virnara/virnara.github.io) | 🟢 Active | Modern portfolio website built with HTML, CSS, and JavaScript, focusing on performance, branding, and responsive design. |
+| [🍹 Jelly Potter Web App](https://github.com/Virnara/jellypotter) | 🟢 Active | Web-based ordering & franchise management system built with native PHP, MySQL, and AJAX. |
 | [🌱 Smart Air Monitoring](https://github.com/Virnara/smart-air-monitoring) | 🟡 Development | Real-time air quality monitoring system using ESP32 and MQ-135 sensor. |
 | [🐳 Docker Learning Lab](https://github.com/Virnara) | 🟡 Learning | Hands-on experiments with Docker, Linux, and containerized application deployment. |
-| [💻 Web Development Playground](https://github.com/Virnara) | 🟢 Active | A collection of web experiments, basic PHP CRUDs, and database practices. |
 
 ---
-
 
 ## 🤝 Connect With Me
 
